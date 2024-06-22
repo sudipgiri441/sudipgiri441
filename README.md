@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi there! I'm Sudip Giri
 
-<!--
-**sudipgiri441/sudipgiri441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Focus:
+Studying Bachelors in Economics at Kathmandu University
 
-Here are some ideas to get you started:
+🌱 Learning & Growing:
+Expanding my skills in Python, SQL, and data visualization tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests:
+Technical: Data Science, Machine Learning, Big Data
+
+👯 Looking to Collaborate On:
+Data analysis projects and
+Machine learning model development
+
+📫 How to Reach Me:
+Email: [sudipgiri2057@gmail.com]
+
+⚡ Fun Fact:
+I’m a huge football fan and love analyzing match statistics!
